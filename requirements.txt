@@ -1,3 +1,4 @@
 streamlit==1.16.0
 openai==0.29.0  # Replace with the specific version you need
+OPENAI_API_KEY=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
 # Add other dependencies if needed
